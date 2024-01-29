@@ -39,42 +39,38 @@ library(palmerpenguins)
 
 # COMM 110-01 Communication, Media & Society
 
-::: {layout="[[39, -2, 59]]"}
-![](img/polyducks.gif)
-
-<small>Spring Semester 2024  
-3 credits  
-Meetings: MWF 09:00-09:50  
-Location: Petrocelli 113  
-Instructor: Dr. Martin Roberts  
-Office hour: F 10:00-11:00  
-Office: TBA  
-[Video Library](https://franklinpierce.instructure.com/courses/18576/pages/video-library "Video Library")  
+<small>Spring Semester 2024\
+3 credits\
+Meetings: MWF 09:00-09:50\
+Location: Petrocelli 113\
+Instructor: Dr. Martin Roberts\
+Office hour: F 10:00-11:00\
+Office: TBA\
+[Video Library](https://franklinpierce.instructure.com/courses/18576/pages/video-library "Video Library")\
 [Code of Conduct](https://franklinpierce.instructure.com/courses/18576/pages/code-of-conduct "Code of Conduct")</small>
-:::
 
----
+------------------------------------------------------------------------
 
 #### Description
 
 Examines the roles of communication media in society, including the philosophy of mass mediation and the study of media effects on public issues, social values, and cultural tastes. Presents an historical overview of the main technologies of communication and surveys the discipline’s most salient theoretical paradigms.
 
----
+------------------------------------------------------------------------
 
 #### Reading Assignments
 
 Reading assignments will be available either as PDFs via Canvas or online articles (follow links for access). Primary source texts include:
 
-- James W. Carey, _Communication as Culture: Essays on Media and Society_ (New York: Routledge, 1992).
-- Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (New York: Verso, 2014).
-- Stuart Cunningham and David Craig, eds. _Creator Culture: An Introduction to Global Social Media Entertainment_ (New York: New York University Press, 2021).
-- Mark Fisher, _Capitalist Realism: Is There No Alternative?_ (Winchester, UK, and Washington, USA: Zero Books, 2009).
-- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
-- Allissa V. Richardson, _Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism_ (Oxford: Oxford University Press, 2020).
-- Kai Strittmatter, _We Have Been Harmonized: Life in China's Surveillance State_ (New York: HarperCollins, 2020).
-- Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
+-   James W. Carey, *Communication as Culture: Essays on Media and Society* (New York: Routledge, 1992).
+-   Gabriella Coleman, *Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous* (New York: Verso, 2014).
+-   Stuart Cunningham and David Craig, eds. *Creator Culture: An Introduction to Global Social Media Entertainment* (New York: New York University Press, 2021).
+-   Mark Fisher, *Capitalist Realism: Is There No Alternative?* (Winchester, UK, and Washington, USA: Zero Books, 2009).
+-   Whitney Phillips and Ryan M. Milner, *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape* (Cambridge: MIT Press, 2021).
+-   Allissa V. Richardson, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
+-   Kai Strittmatter, *We Have Been Harmonized: Life in China's Surveillance State* (New York: HarperCollins, 2020).
+-   Zeynep Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protest* (New Haven: Yale University Press, 2017).
 
----
+------------------------------------------------------------------------
 
 #### Assignments and Evaluation
 
@@ -90,20 +86,19 @@ One or more discussion posts per week on reading assignments, submitted anytime 
 
 ---
 #### Class Schedule
-
 ---
 
 Week 1
 
 **Introduction**
 
-M  01/15  NO CLASS (Martin Luther King, Jr. Day)  
-W  01/17  Introduction  
-F  01/19    Anonymous [Leila Binder], "[Alienation, Marvelous Pursuits and the New Nomadic Sciences](https://franklinpierce.instructure.com/courses/18576/files/2696615?wrap=1 "anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences.pdf")"  [[web](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)]
+M  01/15  NO CLASS (Martin Luther King, Jr. Day)\
+W  01/17  Introduction\
+F  01/19    Anonymous \[Leila Binder\], "[Alienation, Marvelous Pursuits and the New Nomadic Sciences](https://franklinpierce.instructure.com/courses/18576/files/2696615?wrap=1 "anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences.pdf")"  \[[web](https://theanarchistlibrary.org/library/anonymous-alienation-marvelous-pursuits-and-the-new-nomadic-sciences)\]
 
-[Module](https://franklinpierce.instructure.com/courses/18576/pages/marvelous-pursuits?module_item_id=644628) | [Questions](https://franklinpierce.instructure.com/courses/18576/discussion_topics/234231 "Marvelous Pursuits")
+[Module](https://franklinpierce.instructure.com/courses/18576/pages/marvelous-pursuits?module_item_id=644628) \| [Questions](https://franklinpierce.instructure.com/courses/18576/discussion_topics/234231 "Marvelous Pursuits")
 
----
+------------------------------------------------------------------------
 
 Week 2
 
@@ -111,45 +106,45 @@ Week 2
 
 James Carey, “[A Cultural Approach to Communication](https://franklinpierce.instructure.com/courses/18576/files/2698299?wrap=1 "carey-culture-communication.pdf")” (PDF)
 
-Benedict Anderson, “[Concepts and Definitions](https://franklinpierce.instructure.com/courses/18576/files/2698298?wrap=1 "imagined-communities-intro.pdf")” (excerpt from "Introduction," _Imagined Communities_ (1991) (PDF)
+Benedict Anderson, “[Concepts and Definitions](https://franklinpierce.instructure.com/courses/18576/files/2698298?wrap=1 "imagined-communities-intro.pdf")” (excerpt from "Introduction," *Imagined Communities* (1991) (PDF)
 
-Raymond Williams, "[Communication](https://franklinpierce.instructure.com/courses/18576/pages/raymond-williams-keywords "Raymond Williams, Keywords")" (in _Keywords_)
+Raymond Williams, "[Communication](https://franklinpierce.instructure.com/courses/18576/pages/raymond-williams-keywords "Raymond Williams, Keywords")" (in *Keywords*)
 
 [Questions](https://franklinpierce.instructure.com/courses/18576/discussion_topics/234229 "Transmission vs. Ritual")
 
-M  01/22     
-W  01/24     
+M  01/22   \
+W  01/24   \
 F  01/26  
 
----
+------------------------------------------------------------------------
 
 Week 3
 
 **Ideology**
 
-Terry Eagleton, “[What Is Ideology?](https://franklinpierce.instructure.com/courses/18576/files/2708472?wrap=1 "what-is-ideology-highlight.pdf")” (from _Ideology: An Introduction_): pp. 28-31 ONLY (rest of article is optional)
+Terry Eagleton, “[What Is Ideology?](https://franklinpierce.instructure.com/courses/18576/files/2708472?wrap=1 "what-is-ideology-highlight.pdf")” (from *Ideology: An Introduction*): pp. 28-31 ONLY (rest of article is optional)
 
 Louis Althusser, "[Ideology and Ideological State Apparatuses](https://franklinpierce.instructure.com/courses/18576/files/2708473?wrap=1 "althusser-ideology-highlight.pdf")" (excerpt): pp. 84-87 ONLY
 
-Watch: _A Pervert's Guide to Ideology_
+Watch: *A Pervert's Guide to Ideology*
 
-M  01/29    
-W  01/31    
+M  01/29  \
+W  01/31  \
 F  02/02  
 
----
+------------------------------------------------------------------------
 
 Week 4
 
 **Hegemony**
 
-Antonio Gramsci, _Prison Notebooks_ (selected sections)
+Antonio Gramsci, *Prison Notebooks* (selected sections)
 
-M  02/05    
-W  02/07    
+M  02/05  \
+W  02/07  \
 F  02/09  
 
----
+------------------------------------------------------------------------
 
 Week 5
 
@@ -157,35 +152,35 @@ Week 5
 
 Gilles Deleuze, "Postscript on the Societies of Control" (PDF)
 
-M  02/12    
-W  02/14    
+M  02/12  \
+W  02/14  \
 F  02/16  
 
----
+------------------------------------------------------------------------
 
 Week 6
 
 **Charisma**
 
-Max Weber, _Economy and Society_ (selected sections) (PDF)
+Max Weber, *Economy and Society* (selected sections) (PDF)
 
-M  02/19  NO CLASS (President’s Day)  
-W  02/21    
+M  02/19  NO CLASS (President’s Day)\
+W  02/21  \
 F  02/23  
 
----
+------------------------------------------------------------------------
 
 Week 7
 
 **Cultural Capital**
 
-Pierre Bourdieu, _Distinction_ (selected sections) (PDF)
+Pierre Bourdieu, *Distinction* (selected sections) (PDF)
 
-M  02/26    
-W  02/28    
+M  02/26  \
+W  02/28  \
 F  03/01  
 
----
+------------------------------------------------------------------------
 
 Week 8
 
@@ -193,119 +188,141 @@ Week 8
 
 Steven D. Brown, “In Praise of the Parasite: The Dark Organizational Theory of Michel Serres”
 
-M  03/04    
-W  03/06    
+M  03/04  \
+W  03/06  \
 F  03/08  
 
----
+------------------------------------------------------------------------
 
 Week 9
 
 **Capitalist Realism**
 
-Mark Fisher, _Capitalist Realism_
+Mark Fisher, *Capitalist Realism*
 
-M  03/11    
-W  03/13    
+M  03/11  \
+W  03/13  \
 F  03/15   NO CLASS (instructor attending conference)
 
----
+------------------------------------------------------------------------
 
 **Spring Break**
 
----
+------------------------------------------------------------------------
 
 Week 10
 
 **Witnessing**
 
-Allissa Richardson, _Bearing Witness While Black_
+Allissa Richardson, *Bearing Witness While Black*
 
-- ch. 1: "Looking As Rebellion: The Concept of Black Witnessing"
-- ch. 3: "The New Protest \#Journalism: Black Witnessing as Counternarrative" 
+-   ch. 1: "Looking As Rebellion: The Concept of Black Witnessing"
+-   ch. 3: "The New Protest #Journalism: Black Witnessing as Counternarrative" 
 
-M  03/25    
-W  03/27    
+M  03/25  \
+W  03/27  \
 F  03/29  
 
----
+------------------------------------------------------------------------
 
 Week 11
 
 **Hashtag Activism**
 
-Zeynep Tufekci, _Twitter and Tear Gas: The Power of Networked Protest_
+Zeynep Tufekci, *Twitter and Tear Gas: The Power of Networked Protest*
 
-- ch. 8: “Signaling Power and Signaling to Power”
-- ch. 9: “Governments Strike Back” 
+-   ch. 8: “Signaling Power and Signaling to Power”
+-   ch. 9: “Governments Strike Back” 
 
-M  04/01    
-W  04/03    
+M  04/01  \
+W  04/03  \
 F  04/05  
 
----
+------------------------------------------------------------------------
 
 Week 12
 
-**Surveillance & Citizenship**  
-   
-Kai Strittmatter, _You Have Been Harmonized_
+**Surveillance & Citizenship**\
+ \
+Kai Strittmatter, *You Have Been Harmonized*
 
-- “The Net: How the Party Learned to Love the Internet”
-- “The New Man: How Big Data and a Social Credit System are Meant to Turn People into Good Subjects”  
+-   “The Net: How the Party Learned to Love the Internet”
+-   “The New Man: How Big Data and a Social Credit System are Meant to Turn People into Good Subjects”  
 
-M  04/08    
-W  04/10    
+M  04/08  \
+W  04/10  \
 F  04/12  
 
----
+------------------------------------------------------------------------
 
 Week 13
 
 **Antisocial Media**
 
-Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy_
+Gabriella Coleman, *Hacker, Hoaxer, Whistleblower, Spy*
 
-- “Introduction: ‘Now You Have Got Our Attention’”
-- “On Trolls, Tricksters, and the Lulz” 
+-   “Introduction: ‘Now You Have Got Our Attention’”
+-   “On Trolls, Tricksters, and the Lulz” 
 
-Watch: [We Are Legion: The Story of the Hacktivists](https://www.youtube.com/watch?v=TfunqNKIDPI) (Brian Knappenberger, 2012) [YouTube, free]
+Watch: [We Are Legion: The Story of the Hacktivists](https://www.youtube.com/watch?v=TfunqNKIDPI) (Brian Knappenberger, 2012) \[YouTube, free\]
 
-M  04/15    
-W  04/17    
+M  04/15  \
+W  04/17  \
 F  04/19  
 
----
+------------------------------------------------------------------------
 
 Week 14
 
 **Meme Culture**
 
-Whitney Phillips and Ryan M. Milner, ch. 2 of _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_  
+Whitney Phillips and Ryan M. Milner, ch. 2 of *You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape*\
 Taraneh Azar, “[The Meme Is The Message](https://www.themememessage.com/)" (special report)  
 
-Watch:  
-[Feels Good Man](https://www.amazon.com/Feels-Good-Man-Matt-Furie/dp/B08FFCR12S) (Arthur Jones, 2020) [Amazon, $2.99 rental]
+Watch:\
+[Feels Good Man](https://www.amazon.com/Feels-Good-Man-Matt-Furie/dp/B08FFCR12S) (Arthur Jones, 2020) \[Amazon, \$2.99 rental\]
 
-M  04/22    
-W  04/24    
+M  04/22  \
+W  04/24  \
 F  04/26  
 
----
+------------------------------------------------------------------------
 
 Week 15
 
 **Detoxing: Ecological Literacy**
 
-Ryan Milner and Whitney Phillips, _You Are Here_
+Ryan Milner and Whitney Phillips, *You Are Here*
 
-- ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
-- ch. 6: "Choose Your Own Ethics Adventure" 
+-   ch. 5: "Cultivating Ecological Literacy" (skip opening section in italics)
+-   ch. 6: "Choose Your Own Ethics Adventure" 
 
-M  04/29    
-W  05/01    
+M  04/29  \
+W  05/01  \
 F  05/03  
 
----
+------------------------------------------------------------------------
 
-T 05/07  Final Exam (Block B): 8:00 a.m.
+T 05/07  **Final Exam (Block B): 8:00 a.m.**
+
+------------------------------------------------------------------------
+
+#### Inclement Weather Policy
+
+In the event of class having to be cancelled due to inclement weather, you will receive a notification by email and via Canvas Inbox on the morning of the class in question. Arrangements will be made at the subsequent class meeting to try to schedule a make-up class.
+
+------------------------------------------------------------------------
+
+#### Student Accessibility
+
+If you are diagnosed with a disability, please make an appointment to meet with the Coordinator of Student Accessibility Services, located in Peterson Manor, second floor. The Coordinator can be reached at 603-899-4109 or by emailing studentaccessibility\@franklinpierce.edu. All students with the necessary supporting documentation will be provided with reasonable accommodations as determined by the Coordinator. It is entirely your responsibility to contact the Coordinator and then supply me with your Academic Accommodation Letter document - which will inform me of exactly what accommodations will best facilitate your academic success. You will only receive academic accommodations once you provide me with this form. 
+
+------------------------------------------------------------------------
+
+#### Academic Integrity
+
+Academic integrity is built upon the values of honesty, fairness, social responsibility, trustworthiness, and ethical awareness and are at the core of a Franklin Pierce education. The Academic Integrity Policy is intended to provide guidelines as to the University’s expectations and procedures for enforcing its commitment to academic values and goals in the instances of suspected or alleged academic misconduct. It is in the interest of students, faculty, and all University members to maintain the highest standards of academic integrity ensuring the value of the educational process and the credibility of the institution.
+
+Any action or attempted action that by reasonable standards is considered to violate these fundamental values creating an unfair advantage for oneself/or for another strikes at the very heart of the academic enterprise and would constitute academic misconduct. For the definitions of academic misconduct, the procedural process, and sanctions, see the Academic Integrity policy available from the Office of Academic Affairs.
+
+------------------------------------------------------------------------
